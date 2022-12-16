@@ -1,6 +1,5 @@
 #include "GildedRose.h"
 
-
 GildedRose::GildedRose(::std::vector<Item> const& items) : items(items)
 {}
 
